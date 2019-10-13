@@ -1,1 +1,1 @@
-export * from './purpleContainer'
+export * from './PurpleContainer'
